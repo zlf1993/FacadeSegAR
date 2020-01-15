@@ -1,4 +1,4 @@
-# Facade-Segnet-Proposal-Urban
+# Facade-Segnet-AR
 ## Important
 
 We implement a novel object proposals method specific to building-facades. We fuse low level image cues such as texture and ORB into modified Mask R-CNN to correct facades.  Features are combined to generate a few facade candidates in urban environ-ments fast.  Then we Augmented Reality the ad.
@@ -42,3 +42,4 @@ ORB & Texture features with Hough Transform.
 After Features Fusion, get the transformed regular quadrilateral.
 
 ![avatar](./Pictures/facades.jpeg)
+![avatar](./Pictures/AR.jpeg)
